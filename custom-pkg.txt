@@ -1,0 +1,13 @@
+chromium-widevine
+google-chrome
+jd-gui
+jetbrains-toolbox
+kgamma5
+kimageformats
+manjaro-documentation-en
+manjaro-firmware
+spotify
+systemd-fsck-silent
+transcode
+ttf-ms-fonts
+unityhub
