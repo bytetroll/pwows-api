@@ -1,4 +1,4 @@
-#!/home/bytetroll/incubator/pwows-api/venv/bin/python
+#!/home/nyoung/incubator/pwows-api/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
